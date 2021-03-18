@@ -1,6 +1,6 @@
 ---
 layout: default
-title: This is me.
+title: About Skystone ID
 ---
 
-She/her. A software person. Singapore.
+About us.
